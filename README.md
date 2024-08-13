@@ -6,7 +6,7 @@ A small U.S. health care clinic specializing in primary-care services experience
 
 ## Scenario
 
-You are documenting a ransomware attack at a health care clinic where employees lost access to critical files due to a ransomware infection. The attack was initiated through phishing emails, and the clinic's operations were halted as a result. The attackers’ demand for a ransom adds complexity to the incident, requiring a decision on how to proceed.
+I'm documenting a ransomware attack at a health care clinic where employees lost access to critical files due to a ransomware infection. The attack was initiated through phishing emails, and the clinic's operations were halted as a result. The attackers’ demand for a ransom adds complexity to the incident, requiring a decision on how to proceed.
 
 ## Journal
 
