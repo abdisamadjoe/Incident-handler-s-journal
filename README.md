@@ -11,10 +11,9 @@ You are documenting a ransomware attack at a health care clinic where employees 
 ## Journal
 
 
-| **Date**:July 23, 2024           | **Entry**: #1                                                                                                                                                                                                                             |
+| **Date** :July 23, 2024           | **Entry**: #1                                                                                                                                                                                                                             |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Date**           | July 23, 2024                                                                                                                                                                                                                           |
-| **Entry**          | #1                                                                                                                                                                                                                                      |
+                                                                                                                                                                                                            |
 | **Description**    | Documenting a cybersecurity incident                                                                                                                                               |
 | **Tool(s) used**   | None                                                                                                                                                                                                                                     |
 | **The 5 W's**      | ● **Who:** An organized group of unethical hackers<br> ● **What:** A ransomware security incident<br> ● **Where:** At a health care clinic<br> ● **When:** Tuesday 9:00 a.m.<br> ● **Why:** The incident occurred due to a phishing attack that led to ransomware deployment, encrypting critical files and demanding a ransom for decryption. |
